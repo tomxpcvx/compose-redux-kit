@@ -1,0 +1,3 @@
+package store
+
+interface ActionType
